@@ -99,7 +99,7 @@ There were many burglaries where I lived, and I decided to protect myself someho
     <a href="https://trzmiel7.github.io/pf/images/adaptivePI.jpg"><img src="images/adaptivePI.jpg" width="300"/></a>
   </p>
 </center>
-In the 9th semester we had the project of “Computer aided modeling and design of control systems” course.  We have to make power electronic simulation model of choice in a group of 2. Together with my colleague Tomek we decided to model a system of PMSM motor supplied from the grid with use of an PWM rectifier and vector-based inverter. The simulations were performed with PSIM software. Topologies used were typical for this application, however the regulator of the outer loop of a rectifier is worth to mention, though. It was an adaptive PI regulator with system reference model and wind-up protection.
+In the 9th semester we had the project of “Computer aided modeling and design of control systems” course.  We have to make power electronic simulation model of choice in a group of 2. Together with my colleague Tomek we decided to model a system of PMSM motor supplied from the grid with use of a PWM rectifier and vector-based inverter. The simulations were performed with PSIM software. Topologies used were typical for this application, however the regulator of the outer loop of a rectifier is worth to mention, though. It was an adaptive PI regulator with system reference model and wind-up protection.
 
 
 ### Game bots
