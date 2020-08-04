@@ -53,7 +53,7 @@ Upgrade my old desk with a single monitor to double monitor desk, with a shelf f
     <a href="https://trzmiel7.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
   </p>
 </center>
-I was bored and as a hobby I wanted to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions. It's nothing serious but looks quite good so why not to mention it here?
+My small hobby project. Was bored one day and decided to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions and it has intuitive documentation. Despite the toolbox has built-in models for face, eyes, mouth etc. recognition the challenge was to obtain their actual position. Those models returns just set of rectangles where the searched face feature is possibly located, not an accurate position.
 
 
 ### Series resonant inverter
@@ -70,7 +70,7 @@ I was bored and as a hobby I wanted to play around some image processing. Matlab
     <a href="https://trzmiel7.github.io/pf/images/res_out.jpg"><img src="images/res_out.jpg" height="300"/></a>
   </p>
 </center>
-And here you can see my first power electronics circuit – a resonant inverter. This is model that I build for my BEng Thesis. The pictures show a series resonant circuit, powered from a full bridge inverter based on 4 MOS transistors, Eagle schematic of a MOS driver, Eagle board of a control circuit and oscilloscope measurements on the tank circuit. From the time perspective today I would do differently almost everything, but as I mentioned it was my first converter and served mostly as my own educational playground. I definitely learned a lot from this projects, especially practical things. It worked, and I was happy about it. 
+And here you can see my first power electronics circuit – a resonant inverter. This is model that I build for my BEng Thesis. The pictures show a series resonant circuit, powered from a full bridge inverter based on 4 MOS transistors, Eagle schematic of a MOS driver, Eagle board of a control circuit and oscilloscope measurements on the tank circuit. From the time perspective, there are a lot of things that I'd do differently today, but as I mentioned before it was my first converter and it served mostly as my own educational playground. I definitely have learned a lot from this project. It worked, and I was happy about it. 
 
 
 ### Security app for Android
@@ -83,7 +83,7 @@ And here you can see my first power electronics circuit – a resonant inverter.
   </p>
 </center>
 
-There were many burglaries where I lived, and I decided to protect myself somehow. I had my old smartphone and thought about using it as IP camera. Downloaded some ready apps but they didn’t satisfy me.  I decided to program my own application for that purpose. How it works: the smartphone takes pictures few times a second. The pictures are analyzed if there was a motion and if so it calculates how much part of the screen has changed. If it crosses certain threshold SMS/email Is send and the picture is being uploaded via FTP to the server. There is also a website, where you can watch recent alarms and certain details (how much memory is left or what was the battery level during the alarm). There’s also simple protection for overloading the hosting capacity – it automatically removes the oldest pictures from the server if there are too many of them.
+There were many burglaries where I lived, and I decided to protect myself somehow. I had my old smartphone and thought about using it as IP camera. Downloaded some ready apps but they didn’t satisfy me.  I decided to program my own application for that purpose. How it worked: the smartphone takes pictures few times a second. The pictures are analyzed if there was a motion and if so it calculates how much part of the screen has changed. If it crosses certain threshold SMS/email Is send and the picture is being uploaded via FTP to the server. There is also a website, where you can watch recent alarms and certain details (how much memory is left or what was the battery level during the alarm). There’s also simple protection for overloading the hosting capacity – it automatically removes the oldest pictures from the server if there are too many of them.
 
 
 ### PSIM project - PWM rectifier + DFOC + PMSM + active load
@@ -99,7 +99,7 @@ There were many burglaries where I lived, and I decided to protect myself someho
     <a href="https://trzmiel7.github.io/pf/images/adaptivePI.jpg"><img src="images/adaptivePI.jpg" width="300"/></a>
   </p>
 </center>
-In the 9th semester we had the project of “Computer aided modeling and design of control systems” course.  We have to make power electronic simulation model of choice in a group of 2. Together with my colleague Tomek we decided to model a system of PMSM motor supplied from the grid with use of a PWM rectifier and vector-based inverter. The simulations were performed with PSIM software. Topologies used were typical for this application, however the regulator of the outer loop of a rectifier is worth to mention, though. It was an adaptive PI regulator with system reference model and wind-up protection.
+In the 9th semester we had the project of “Computer aided modeling and design of control systems” course.  We had to make power electronic simulation model of choice in a group of 2. Together with my colleague Tomek we decided to model a system of PMSM motor supplied from the grid with use of a PWM rectifier and vector-based inverter. The simulations were performed with PSIM software. Topologies used were typical for such application, you can see them in the attached screens. 
 
 
 ### Game bots
