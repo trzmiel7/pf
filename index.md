@@ -42,7 +42,7 @@ My master’s thesis was entitled: „Analysis of the operation of active transi
   </p>
 
 </center>
-Upgrade my old desk with a single monitor to double monitor desk, with a shelf for books, adjustable length and its own lighting panel.
+Upgrade of my old desk with a single monitor to a desk with two monitors, a shelf for books, adjustable length and its own lighting panel.
 
 
 ### Face features recognition
@@ -53,7 +53,7 @@ Upgrade my old desk with a single monitor to double monitor desk, with a shelf f
     <a href="https://trzmiel7.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
   </p>
 </center>
-My small hobby project. Was bored one day and decided to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions and it has intuitive documentation. Despite the toolbox has built-in models for face, eyes, mouth etc. recognition the challenge was to obtain their actual position. Those models returns just set of rectangles where the searched face feature is possibly located, not an accurate position.
+My small hobby project. Was bored one day and decided to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions and it has intuitive documentation. Despite the toolbox has built-in models for recognition of face, eyes, mouth etc. the challenge was to obtain their actual position.
 
 
 ### Series resonant inverter
@@ -118,8 +118,7 @@ In the 9th semester we had the project of “Computer aided modeling and design 
 
 
 </center>
-I used to like playing games. Some of them however required a player to perform tedious and repetitive tasks. As a lazy person but also someone who had some programming and control skills I couldn’t resist but to come up with solution to automate those tasks. Initially, those were simple scripts, without any GUI, and designed to automate up to few tasks at once. However, I tend to make more and more advanced scripts. My bots contained an extensive graphical interface, could automate a lot of tasks simultaneously, had many different widgets, included A* pathfinding algorithms, in-bot scripts thanks to my own interpreter. My biggest achievement in this field was making an API that based on image processing was able to obtain over 100 informations from the game window in less than 0.1 of second (such as position of player, its statistics, quantity of items, its inventory, available skills and other). Even though I made such advanced bots I haven’t sold them neither I used them a lot. Creating them were simply more entertaining for me than using them.
-
+I used to like playing games. Some of them however required a player to perform tedious and repetitive tasks. As a lazy person but also someone who had some programming and control skills I couldn’t resist but to come up with solution to automate those tasks. Initially, those were simple scripts, without any GUI, and designed to automate up to few tasks at once. However, I tend to make more and more advanced scripts. My bots contained an extensive graphical interface, could automate a lot of tasks simultaneously, had many different widgets, included A* pathfinding algorithms, in-bot scripts thanks to my own interpreter. My biggest achievement in this field was making an API that based on image processing was able to obtain over 100 informations from the game window in less than 0.1 second.
 
 ### Control for pump station
 #EE #SoftStart #SEE Electrical #UniProjects
