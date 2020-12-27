@@ -44,14 +44,14 @@ Upgrade of my old desk with a single monitor to a desk with two monitors, a shel
 
 
 ### Face features recognition
-#Matlab #ImageProcessingToolbox
+#ImageRecognition
 
 <center>
   <p float="left">
     <a href="https://trzmiel7.github.io/pf/images/face1.jpg"><img src="images/face1.jpg" width="300"/></a>
   </p>
 </center>
-My small hobby project. Was bored one day and decided to play around some image processing. Matlab is a great tool for this as it gives you all the necessary functions and it has intuitive documentation. Despite the toolbox has built-in models for recognition of face, eyes, mouth etc. the challenge was to obtain their actual position.
+My small hobby project. Was bored one day and decided to play around some image processing. Despite the library that I used had built-in models for recognition of face, eyes, mouth etc. the challenge was to obtain their actual positions.
 
 
 ### Series resonant inverter
